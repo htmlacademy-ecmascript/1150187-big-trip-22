@@ -1,0 +1,5 @@
+const EVENT_LIST_ITEMS_COUNT = 3;
+
+export {
+  EVENT_LIST_ITEMS_COUNT
+};
